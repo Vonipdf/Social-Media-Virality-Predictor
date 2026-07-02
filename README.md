@@ -1,5 +1,5 @@
 # Social-Media-Virality-Predictor
-Quantitative Visual Feature Analysis for Social Media Virality Prediction
+## Quantitative Visual Feature Analysis for Social Media Virality Prediction
 
 In modern digital media, predicting content engagement ("virality") is a high-value task for brand managers, content creators, and algorithmic recommendation systems. Traditional social media analytics heavily favor text-based metadata (such as captions, hashtags, and posting times). However, contemporary platforms like Instagram and TikTok are visual-first mediums.
 
